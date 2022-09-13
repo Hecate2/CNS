@@ -1,0 +1,9 @@
+Blue topaz:
+height: 150cm/840pixels*10pixels = 1.7857142857142858 cm
+width: 150/840*7 = 1.25cm
+volume: h*w/2*0.4cm/3*2 = 0.2976190476190476 cm3
+weight: volmue*3.6g/cm2 = 1.0714285714285714 g
+
+Silver substrate:
+height: 150/840*27 = 4.821428571428571 cm
+width: 150/840*22 = 3.928571428571429 cm
