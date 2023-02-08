@@ -16,3 +16,6 @@ https://3d.yliss.cn/web3D/designInfo_pc.html?v=U2FsdGVkX1882JBCCLyDFZxgF177RTNTB
 - 数量：默认100个。保留追加生产的可能性。
 - 销售：最好可以一件代发到各种电商，包括海外。
 
+![Preview](camera_shots/QQ图片20230208155813.jpg)
+
+![Preview video](camera_shots/QQ视频20230208155847.mp4)
