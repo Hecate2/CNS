@@ -18,4 +18,8 @@ https://3d.yliss.cn/web3D/designInfo_pc.html?v=U2FsdGVkX1882JBCCLyDFZxgF177RTNTB
 
 ![Preview](camera_shots/QQ图片20230208155813.jpg)
 
+![Black cat](camera_shots/QQ图片20230228144230.jpg)
+
+![Black cat](camera_shots/QQ图片20230228144238.jpg)
+
 ![Preview video](camera_shots/QQ视频20230208155847.mp4)
